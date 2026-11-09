@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ikatyang-collab/vnopts/commit/eca8ed1740ef6130c68c242ba66f92093ee833d5",
       "git:hexsha": "eca8ed1740ef6130c68c242ba66f92093ee833d5",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.0.5"
     },
     {
